@@ -10,7 +10,6 @@ Each task demonstrates software engineering best practices such as modular desig
 | Task | Project Title | Description | Tech Stack |
 |------|----------------|-------------|-------------|
 | **Task 1** | 🎓 Student Grade System | Console-based grade tracker that manages students, calculates averages, and determines top/lowest performers. | Java, OOP, Collections |
-
 | **Task 3** | 🤖 AI Chatbot | NLP-based chatbot built using Java; can be extended into a REST API using Spring Boot and React frontend. | Java, NLP, Spring Boot, React |
 
 ---
