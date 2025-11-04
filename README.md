@@ -24,7 +24,4 @@ Each task demonstrates software engineering best practices such as modular desig
 
 ---
 
-## 🏗️ Project Structure
-
-Example (for Task 2 – StockTradingPlatform):
 
