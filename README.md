@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💼 CodeAlpha Internship Tasks
 
 This repository contains all the projects completed during my **CodeAlpha Internship**, focused on building **Java-based backend and OOP-driven applications**.  
@@ -25,3 +26,21 @@ Each task demonstrates software engineering best practices such as modular desig
 ---
 
 
+=======
+# Student Grade Tracker
+
+This project is a student grade tracker application with a Java Spring Boot backend and a React frontend.
+
+## How to Run
+
+### Backend
+
+1.  Navigate to the `backend` directory.
+2.  Run `mvn spring-boot:run` to start the backend server.
+
+### Frontend
+
+1.  Navigate to the `frontend` directory.
+2.  Run `npm install` to install the dependencies.
+3.  Run `npm start` to start the frontend development server.
+>>>>>>> 5427312 (Add new project)
